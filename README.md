@@ -1,6 +1,6 @@
 
 <div align="center"> 
-  <h1 align="center">Hi 👋, I'm ChangJuneKim</h1>
+  <h1 align="center">안녕하세요 👋, 저는 김창준 입니다!</h1>
   <h1 align="center">Do my best!</h3>  
   <a href="https://github.com/ChangJuneKim"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChangJuneKim%2Fhit-counter&count_bg=%23146ABD&title_bg=%231AACC9&icon=waze.svg&icon_color=%23E9E6E6&title=hits&edge_flat=false"/></a>  
   <div><img src="https://i2.wp.com/i.giphy.com/media/sTUWqCKtxd01W/giphy.gif"/></div>
